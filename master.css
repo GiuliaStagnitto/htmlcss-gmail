@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* sfondo */
+body{
+  background-image: url("img/sfondo.jpg");
+  background-repeat: repeat;
+  margin: 40px;
+}
+/* header */
+#logo{
+  vertical-align: middle;
+  width: 150px;
+  height: auto;
+  margin: 2px;
+}
+
+#gmail{
+  font-size: 50px;
+  color: #ffffff;
+}
+
+.cerca{
+  margin: 10px 0px 10px 0px;
+}
+
+.numeromail{
+  margin: 20px 0px;
+  font-family:'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+  color: white;
+  padding-bottom: 30px 0;
+}
+
+#spazio{
+  margin: 10px 0;
+}
+
+#numero-mail {
+  background-color: orange;
+  color: white;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+#quadretto{
+  margin-left: 5px;
+  vertical-align: middle;
+}
+
+.mail{
+  font-size: 18px;
+  padding: 3px;
+  border: solid 2px black;
+}
+
+.nlette{
+  background-color: #ffffff;
+
+}
+
+.lette{
+  background-color: #cccccc;
+
+}
+
+.oggetto{
+  font-weight: bold;
+}
+
+.testo{
+font-weight: 400;
+color: grey;
+}
+
+main{
+  text-align: left;
+}
+
+footer{
+ text-align: center;
+ font-family:'Lucida Sans', cursive;
+ font-size: 40px;
+ color: white;
+}
+
+
+#fatto{
+  font-family: 'Brush Script MT', sans-serif;
+  font-size: 30px;
+  color: white;
+}
