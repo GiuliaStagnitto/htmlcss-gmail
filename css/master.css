@@ -6,7 +6,7 @@
 }
 /* sfondo */
 body{
-  background-image: url("img/sfondo.jpg");
+  background-image: url("../img/sfondo.jpg");
   background-repeat: repeat;
   margin: 40px;
 }
